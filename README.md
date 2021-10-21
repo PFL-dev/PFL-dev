@@ -1,9 +1,9 @@
 ### Hello! 👋
 
-I'm Pierre-François Lainé, a front-end web developper. 🙂
+I'm Pierre-François Lainé, a front-end Javascript web developper. 🙂
 
-I'm currently working on https://www.explorastro.com/ 🌠 , a social network about star. 🌟
+I've been working on https://www.explorastro.com/ 🌠 , a social network about stars. 🌟
 
-Looking for work on Rennes! 👨‍💼
+Looking for an opportunity on Rennes, Nantes or Paris! 👨‍💼
 
-You can check my live projects at http://www.jebweb.fr/ 👍
+You can check my portfolio at http://www.jebweb.fr/ 👍
