@@ -1,9 +1,9 @@
 ### Hello! 👋
 
-I'm Pierre-François Lainé, a front-end Javascript web developper. 🙂
+I'm Pierre-François Lainé, a full stack JavaScript developer. 🙂
 
-I've been working on https://www.explorastro.com/ 🌠 , a social network about stars. 🌟
+I worked for a bit on https://www.explorastro.com/ 🌠, a social network about stars. 🌟
 
-Looking for an opportunity on Rennes, Nantes or Paris! 👨‍💼
+And I'm now currently working for Capgemini, on a mission at Dassault. ✈️
 
 You can check my portfolio at http://www.jebweb.fr/ 👍
