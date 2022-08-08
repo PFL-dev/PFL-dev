@@ -2,7 +2,7 @@
 
 I'm Pierre-François Lainé, a full stack JavaScript developer. 🙂
 
-I worked for a bit on https://www.explorastro.com/ 🌠, a social network about stars. 🌟
+I worked for a bit on ExplorAstro 🌠, a social network about stars. 🌟
 
 And I'm now currently working for Capgemini, on a mission at Dassault. ✈️
 
