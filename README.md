@@ -1,12 +1,8 @@
 ### Hello! 👋
 
-I'm Pierre-François Lainé, a full stack JavaScript developer. 🙂
+I'm Pierre-François Lainé, a full stack JavaScript and Python developer. 🙂
 
-I worked for a bit on ExplorAstro 🌠, a social network about stars. 🌟
-
-And I'm now currently working for Capgemini, on a mission at Dassault. ✈️
-
-You can check my portfolio at http://www.jebweb.fr/ 👍
+I'm currently an associate software engineer at Capgemini. 🖥️
 
 ### The technologies I use 🛠️
 
