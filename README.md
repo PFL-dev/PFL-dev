@@ -4,7 +4,7 @@ I'm Pierre-François Lainé, a full stack JavaScript and Python developer. 🙂
 
 I'm currently an associate software engineer at Capgemini. 🖥️
 
-### The technologies I use 🛠️
+### Some of the technologies I use 🛠️
 
 <div align='center'>
         <h3>Front-end</h3>
@@ -37,3 +37,5 @@ I'm currently an associate software engineer at Capgemini. 🖥️
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
         
 </div>
+
+And more 😁
