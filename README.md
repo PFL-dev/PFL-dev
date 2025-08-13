@@ -18,6 +18,7 @@ I'm currently an associate software engineer at Capgemini. 🖥️
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /><br>
         <h3>Back-end</h3>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
         <img src="https://img.shields.io/badge/Express-F8F8FF?style=for-the-badge&logo=express&logoColor=61DAFB" /><br>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
